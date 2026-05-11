@@ -1,5 +1,7 @@
 /* ── CONFIG ───────────────────────────────── */
-const API = 'http://localhost:5000/api';
+const API = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+  ? 'http://localhost:5000/api'
+  : 'https://pulse-api.onrender.com/api'; // 🔁 Replace with your deployed backend URL
 const PLATFORM_COLORS = {
   twitter:   '#1DA1F2',
   instagram: '#E1306C',
