@@ -1,6 +1,6 @@
 # Pulse — Social Media Dashboard
 
-A full-stack social media analytics dashboard with a **Python/Flask** REST API backend, a polished **HTML/CSS/JS** frontend, and a **Java** data export utility
+A full-stack social media analytics dashboard with a **Python/Flask** REST API backend, a polished **HTML/CSS/JS** frontend, and a **Java** data export utility.
 
 ---
 
