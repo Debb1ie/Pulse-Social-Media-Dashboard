@@ -37,7 +37,7 @@ social-dashboard/
 
 ---
 
-## Quick Start
+## Quick Start.
 
 ### 1 — Python Backend
 
